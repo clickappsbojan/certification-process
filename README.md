@@ -2,6 +2,7 @@
 --------------------------------------------------------------------------------
 
 ## POSTMAN Collection
+[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/20cead5039232ec238d2)
 --------------------------------------------------------------------------------
 
 ## Flight certification tests Index
