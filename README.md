@@ -1,4 +1,8 @@
-# Flight certification tests
+#Juniper Certification Documentation 
+
+## POSTMAN Collection
+
+## Flight certification tests
 - [A booking of a roundtrip flight of 2 adults](Flights/Roundtrip/TwoAdults.md)
 - [A booking of a roundtrip flight of 2 adults and 1 baby](Flights/Roundtrip/TwoAdultsAndOneBaby.md)
 - [A booking of a roundtrip flight of 2 adults and 2 children of 5 and 15 years old each](Flights/Roundtrip/TwoAdultsAndTwoBaby.md)
