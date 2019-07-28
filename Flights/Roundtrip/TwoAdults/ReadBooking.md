@@ -5,8 +5,11 @@
 		<soapenv:Body>
 			<ReadBooking>
 			<ReadRQ Version="1.1" Language="es">
-			<Login Email="xxxxxx" Password="xxxxxxxx"/>
+			<Login Email="xxxxxx" Password="xxxxxx"/>
 			<ReadRequest ReservationLocator="5H7452"/>
+			<AdvancedOptions>
+				<UseCurrency>USD</UseCurrency>
+			</AdvancedOptions>
 			</ReadRQ>
 			</ReadBooking>
 		</soapenv:Body>
@@ -24,7 +27,7 @@
 <soap:Envelope xmlns:soap="http://schemas.xmlsoap.org/soap/envelope/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
     <soap:Body>
         <ReadBookingResponse xmlns="http://www.juniper.es/webservice/2007/">
-            <BookingRS Url="http://xml-uat.bookingengine.es" TimeStamp="2019-07-28T11:19:21.5977595+02:00" IntCode="678GJUoMMOCTiRHTnDtBftFqZibGmUkQae3ly/Rmgys=">
+            <BookingRS Url="http://xml-uat.bookingengine.es" TimeStamp="2019-07-28T12:02:44.9998282+02:00" IntCode="tkY/CZ6nzdY9xPtjhKOLOwsi/41k/fxvou9ML/o/J4I=">
                 <Reservations>
                     <Reservation Locator="5H7452" Status="PAG" Language="es">
                         <Holder>
