@@ -5,7 +5,7 @@
 --------------------------------------------------------------------------------
 
 ## Flight certification tests Index
-### A booking of a roundtrip flight of 2 adults](Flights/Roundtrip/TwoAdults.md)
+### A booking of a roundtrip flight of 2 adults
  
  * [FlightAvail](Flights/Roundtrip/TwoAdults/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/Roundtrip/TwoAdults/FlightCheckAvailifapplicable.md)
@@ -23,7 +23,7 @@
  * [ReadBooking](Flights/Roundtrip/TwoAdultsAndOneBaby/ReadBooking.md)
  * [CancelBooking](Flights/Roundtrip/TwoAdultsAndOneBaby/CancelBooking.md)
 
-### A booking of a roundtrip flight of 2 adults and 2 children of 5 and 15 years old each](Flights/Roundtrip/TwoAdultsAndTwoBaby.md)
+### A booking of a roundtrip flight of 2 adults and 2 children of 5 and 15 years old each
  * [FlightAvail](Flights/Roundtrip/TwoAdultsAndTwoBaby/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/Roundtrip/FlightCheckAvailifapplicable.md)
  * [FlightBooking](Flights/Roundtrip/TwoAdultsAndTwoBaby/FlightBooking.md)
