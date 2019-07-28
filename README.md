@@ -34,7 +34,7 @@
  * [ReadBooking](Flights/Roundtrip/TwoAdultsAndTwoBaby/ReadBooking.md)
  * [CancelBooking](Flights/Roundtrip/TwoAdultsAndTwoBaby/CancelBooking.md)
 
- ### A booking of a roundtrip flight with an extra stop. For instance, Palma de Mallorca - Cancun(WIP)
+ ### A booking of a roundtrip flight with an extra stop. For instance, Palma de Mallorca - Cancun
 
  * [FlightAvail](Flights/Roundtrip/WithExtraStop/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/Roundtrip/WithExtraStop/FlightCheckAvail.md)
