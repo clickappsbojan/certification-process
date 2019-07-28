@@ -1,9 +1,0 @@
-### Request
-```
-## Code
-```
-### Response
-
-```
-## Code
-```
