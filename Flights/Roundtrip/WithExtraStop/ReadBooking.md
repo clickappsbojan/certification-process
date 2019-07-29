@@ -5,7 +5,7 @@
 		<soapenv:Body>
 			<ReadBooking>
 			<ReadRQ Version="1.1" Language="es">
-			<Login Email="TestXMLClickapps" Password="56pEh6uT"/>
+			<Login Email="user@mydomain.com" Password="pass"/>
 			<ReadRequest ReservationLocator="V4W2HZ"/>
 			<AdvancedOptions>
 				<UseCurrency>USD</UseCurrency>

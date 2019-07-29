@@ -5,7 +5,7 @@
 		<soapenv:Body>
 			<CancelBooking>
 				<CancelRQ Version="1.1" Language="es">
-					<Login Password="xxxxx" Email="xxxxxxxx"/>
+					<Login Email="user@mydomain.com" Password="pass"/>
 					<CancelRequest ReservationLocator="KJF18R"/>
 				</CancelRQ>
 			</CancelBooking>			

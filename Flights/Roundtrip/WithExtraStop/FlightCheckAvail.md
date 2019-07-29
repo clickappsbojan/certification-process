@@ -6,7 +6,7 @@
 	<soapenv:Body>
 		<FlightCheckAvail>
 			<FlightCheckAvailRQ Version="1.1" Language="es">
-			<Login Email="xxxxxxxxxxx" Password="xxxxxxxxxx"/>
+			<Login Email="user@mydomain.com" Password="pass"/>
 			<FlightCheckAvailRequest>
 				<FlightOption
 					RatePlanCode="pR+Drc2veFAtxSETJRPPRxMSU0S+05he6M86pFU7TItH/vJd8W5itMWaHlsRgYOkeCzN9SSMHaeDK8p0rbDJfBiLRqG6ntWJB3RDlrAd8PLSv4kcW//TCK+stcMQNxlm0CXwSkh9qvb8RaRJ0tQvpJG5V8cdPPERUyVeLGogneQNE4BzH4f/tovnelLzl/fXc/71gUmZAF24HBGRLi91PAFUXz4ZUOCyOSiPB8WeXw3TyOXg0JaRkJLhgxqg6T0JZOMwop6q7Y7lcCf7q0vJRZYvXG1YfJlEYB2TEBp68CHQLJtIsrslAyDu5t6zIQq6liM0bdTLotfi2sYR79kirAv91zIoRQVwMfy0Uh8oiYIOuT1nWcbtJ/dwedvqbJCLGynyOKGwm2uZxzdZjuJ7faHgH+ptqhzLD4fKRDI9d6Kd4uYXSr9x3ee/DIszRXbu+8cbKnrZVLYUywZcm9EyyotXRlY6CdaFriT6TE2xqUS1Q/X9WEgivdOBxvtBzbcft0BsaTZkbGzARc2z3obgcYEgxa9K4FfOxRalNJjVh2axZAMXAavb2T+VES9XX1zlZ8ciSTElT6pOrKL6SMzwqQd1GKPude1HqWPhmVzF5hoAXc4aOI6TwRh4G1zCfxTbT9bKEI17QTZQodi80JnXcm52Ov21nJ0nxfWhwEOpeEBjVku2eMvG/odhYiAAK9SS3+5YSM/dW+FBgcfOwpRSvY48iha6tUJsbKgGzMI+dhyfHxrb5RrViF66EbfXCwfz06noj5OirQQW8h3gmSAHVgBVKmewj1bXIVHqPqPL05barPQYJeJNFQMBMbZWT1Y0VXBdS4a+sPx8z+YgOrFHTiBOrPGjwDi/sWGNLATKQVdF1Gx95BM3nsafSRy7d2kqcmrXE590BhHc8dZ6im7tOmcEVAACLvdIOzJeiFydKl4="/>

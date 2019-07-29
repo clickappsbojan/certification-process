@@ -8,7 +8,7 @@
 	<soapenv:Body>
 		<FlightTicketing>
 			<FlightTicketingRQ Version="1.1" Language="es">
-			<Login Email="TestXMLClickapps" Password="56pEh6uT"/>
+			<Login Email="user@mydomain.com" Password="pass"/>
 			<Reservations>
 				<Reservation>
 				<ReservationLocator>WQT5Y1</ReservationLocator>

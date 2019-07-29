@@ -5,7 +5,7 @@
 	<soapenv:Body>
 		<FlightTicketing>
 			<FlightTicketingRQ Version="1.1" Language="es">
-			<Login Email="xxxxxx" Password="xxxxxx"/>
+			<Login Email="user@mydomain.com" Password="pass"/>
 			<Reservations>
 				<Reservation>
 				<ReservationLocator>1P9J1G</ReservationLocator>

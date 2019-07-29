@@ -5,7 +5,7 @@
     <soap:Body>
         <FlightAvail>
             <FlightAvailRQ Version="1.1" Language="en">
-                <Login Password="xxxxxxxxx" Email="xxxxxxx"/>
+                <Login Email="user@mydomain.com" Password="pass"/>
                
                 <Paxes>
                	   

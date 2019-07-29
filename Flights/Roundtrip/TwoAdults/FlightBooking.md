@@ -6,7 +6,7 @@ xmlns="http://www.juniper.es/webservice/2007/">
         <soapenv:Body>
             <FlightBooking>
                 <FlightBookingRQ Version="1.1" Language="es">
-                    <Login Email="TestXMLClickapps" Password="56pEh6uT"/>
+                    <Login Email="user@mydomain.com" Password="pass"/>
                     <Paxes>
 	                     <Pax Gender="M" IdPax="1">
 	                         <Document Type="PAS" ExpirationDate="2024-07-04T00:00:00+02:00">123456789</Document>

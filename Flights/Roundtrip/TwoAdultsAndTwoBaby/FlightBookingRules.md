@@ -6,7 +6,7 @@
 		<soapenv:Body>
 			<FlightBookingRules>
 				<FlightBookingRulesRQ Version="1.1" Language="es">
-				<Login Password="xxxxxxxxx" Email="xxxxxxx"/>
+				<Login Email="user@mydomain.com" Password="pass"/>
 					<FlightBookingRulesRequest>
 						<FlightOption
 						RatePlanCode="LF6j9ndyo/zlz9tkRLu5T4vcqg4Y3XWeGauWGUmxxJy33kAWihQpwFONCEgQgZ8jBiKPBLBrUDh6I2tXxLJHYiZ4wWOqeXQPYYzEOwPVmVCPY8gME6dN0Vi66OuicoOrZHEuDowMEsdviZOg/p03oUeun54AEuonN1tCNLT1tPuTZmJERKlgk/KRZXmbRhM2rqS75XOGl/HMseg4YAcpxieQm1kQ7Uc2xckf2kbb64BKiPStM7UL7DGT2xf3MquEJSUsehJ0NaUp2LqkLo3aHNa1SgtFpX0/jVd1wO65dZOLnOR/4sxXWkzKO79UAgSEVLZbLmLIYo/ldlqIuQG11btFECVAmC7H5rlXhaI+mI6tgdaXLnYdwlP0J3P7MwjAbSGl8z/cWySX/i+vzgLXeRnVbfNWCRw5NqkssoUtfFE6kuu5fPnBiNQaUHZDAWzqwzUBWq59LnaHpwlnaOvbaYPqS0ASg7B+QnZ1UheSotxhRSur8JpTYygmKv2RFQxpSjCQ5as/F9E/GSlw4YCSyQO5IPrLrlk3pprP6SErbnMMdNwJA17TICbMYT4k5s2wz1gEABCLLghXRAvCWhfSaUpAzp26iulGe3f/BSBB6mpdSaIAZe+7BbUSgKb7b3V01Tsk6ivH6AAyFnIQ/kZkO+Lck4Y4AOhBqqgIKqWm7KXxzfx4VLkBwPNSt+td9n8F4P1MqtJ/fbnkgRTdg/VCW9ih4pWG+aLn7TNypfhFm1voYQMrPhRxL9iEdR3cDsZkFlBlylfUFLRFTQU19mZBWyLlXxJYdvuIZtNpPPE1uU3fbLfIukT8D2sOp7CH77/N8Ny47x9zUjX3n7Iwkuk0Gr98SMGz3j8liTnONOIcMGiyTsvPel2KgKhspD5LcDnzt7GV6mJPuQmSNQEhwwrbJKb9HU/IeA5WyqXkB5IzrYDDCzelH72/kWEgdHYIgpF+VfBlRPEr7Qf2hvLmnYj/CQYzcC2aEAaN5N2x3C6EOhyNAsrCsZPz+uf5EFf5v+MppynkG0uYVYhwV3uG5/gggg=="/>

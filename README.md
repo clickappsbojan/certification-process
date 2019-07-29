@@ -1,9 +1,6 @@
 #Juniper Certification Documentation 
 --------------------------------------------------------------------------------
 
-## POSTMAN Collection
-[![Run in Postman](https://run.pstmn.io/button.svg)](https://app.getpostman.com/run-collection/20cead5039232ec238d2)
---------------------------------------------------------------------------------
 
 ## Flight certification tests Index
 
@@ -43,7 +40,7 @@
  * [ReadBooking](Flights/Roundtrip/WithExtraStop/ReadBooking.md)
  * [CancelBooking](Flights/Roundtrip/WithExtraStop/CancelBooking.md)
 
- ### A booking of a one-way flight of 2 adults in business class(WIP)
+ ### A booking of a one-way flight of 2 adults in business class
 
  * [FlightAvail](Flights/OneWay/WithTwoAdults/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/OneWay/WithTwoAdults/FlightCheckAvail.md)
@@ -53,7 +50,7 @@
  * [CancelBooking](Flights/OneWay/WithTwoAdults/CancelBooking.md)
  
  ### A booking of a roundtrip flight of 1 adult with resident discount. For instance, Palma de Mallorca – Madrid(WIP)
- (Flights/Roundtrip/OneAdultWithResidentDiscount.md)
+
  * [FlightAvail](Flights/Roundtrip/OneAdultWithResidentDiscount/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/Roundtrip/FlightCheckAvail.md)
  * [FlightBooking](Flights/Roundtrip/OneAdultWithResidentDiscount/FlightBooking.md)
