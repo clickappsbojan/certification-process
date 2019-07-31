@@ -49,7 +49,7 @@
  * [ReadBooking](Flights/OneWay/WithTwoAdults/ReadBooking.md)
  * [CancelBooking](Flights/OneWay/WithTwoAdults/CancelBooking.md)
  
- ### A booking of a roundtrip flight of 1 adult with resident discount. For instance, Palma de Mallorca – Madrid(WIP)
+ ### A booking of a roundtrip flight of 1 adult with resident discount. For instance, Palma de Mallorca – Madrid
 
  * [FlightAvail](Flights/Roundtrip/OneAdultWithResidentDiscount/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/Roundtrip/FlightCheckAvail.md)
@@ -58,7 +58,7 @@
  * [ReadBooking](Flights/Roundtrip/OneAdultWithResidentDiscount/ReadBooking.md)
  * [CancelBooking](Flights/Roundtrip/OneAdultWithResidentDiscount/CancelBooking.md)
 
- ### A booking of a charter flight of 2 adults with a generated ticket (FlightTicketing method)(WIP)
+ ### A booking of a charter flight of 2 adults with a generated ticket (FlightTicketing method)
  * [FlightAvail](Flights/BookingChater/FlightAvail.md)
  * [FlightCheckAvail if applicable](Flights/BookingChater/FlightCheckAvail.md)
  * [FlightBooking](Flights/BookingChater/FlightBooking.md)
